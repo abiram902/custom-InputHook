@@ -3,7 +3,8 @@
   min-width: 400px;
   background-color: whitesmoke;
   box-shadow: 0 10px 10px rgba(80, 80, 80, 0.5);
-  margin: auto;
+  margin: 100px auto;
+  border-radius: 15px;
   padding: 75px;
 }
 
