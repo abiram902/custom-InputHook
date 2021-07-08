@@ -3,7 +3,7 @@ using a custom-hook for form validation
 ## Available Scripts
 
 In the project directory, you can run:
-### `nppm install`
+### `npm install`
 
 ### `npm start`
 
